@@ -1,0 +1,241 @@
+Label_Name,Label,Text
+Sensitive: Salary,0,average salary per year 75 000 
+Sensitive: Salary,0,monthly salary 50 000 
+Sensitive: Salary,0,monthly income per year 100 000 
+Sensitive: Salary,0,The net income per year is 50 000 euros 
+Sensitive: Salary,0,The income of the person is 50 000 dollars per year 
+Sensitive: Salary,0,The average salary per month is xxx dollars 
+Sensitive: Salary,0,Income: 12 000 per month 
+Sensitive: Salary,0,Income bruto dollars 
+Sensitive: Salary,0,The average income of the patient 
+Sensitive: Salary,0,Income of the patient 
+Sensitive: Salary,0,Salary of patient 
+Sensitive: Salary,0,The monthly salary is 5000 dollars 
+Sensitive: ID/Social Security Number,0,DB22A4D9-7E4D-485C-916A-9CD1386507FB
+Sensitive: ID/Social Security Number,0,6E70D84D-C75F-477C-BC37-9177C3698C66
+Sensitive: ID/Social Security Number,0,FA157FA5-F488-4884-BF87-E144630D595C
+Sensitive: ID/Social Security Number,0,1A40AF35-C6D4-4D46-B475-A15D84E8A9D5
+Sensitive: ID/Social Security Number,0,0A9BA3E4-CF3C-49C4-9774-5EEA2EE7D123
+Sensitive: ID/Social Security Number,0,This is the social security number
+Sensitive: ID/Social Security Number,0,unique patient ID
+Sensitive: ID/Social Security Number,0,Patient ID
+Sensitive: ID/Social Security Number,0,ID 
+Sensitive: Treatment Details,0,Direct infection of joint in infectious and parasitic diseases classified elsewhere
+Sensitive: Treatment Details,0,Disseminated intravascular coagulation [defibrination syndrome]
+Sensitive: Treatment Details,0,Chronic myeloid leukemia BCR/ABL-positive
+Sensitive: Treatment Details,0,Rheumatoid polyneuropathy with rheumatoid arthritis of shoulder
+Sensitive: Treatment Details,0,Acute lymphoblastic leukemia not having achieved 
+Sensitive: Treatment Details,0,Nerve root and plexus compressions in diseases classified elsewhere
+Sensitive: Treatment Details,0,Thoracic thoracolumbar and lumbosacral intervertebral disc disorders
+Sensitive: Treatment Details,0,Renal failure following (induced) termination of pregnancy
+Sensitive: Treatment Details,0,Malignant neoplasm of trachea
+Sensitive: Treatment Details,0,Rheumatoid myopathy with rheumatoid arthritis of left hand
+Sensitive: Treatment Details,0,Cannabis abuse with psychotic disorder
+Sensitive: Treatment Details,0,Type 1 diabetes mellitus with diabetic autonomic (poly)neuropathy
+Sensitive: Treatment Details,0,Kaschin-Beck disease left knee
+Sensitive: Name,0,The name of the patient is John Doe 
+Sensitive: Name,0,The patients name is Thijs G 
+Sensitive: Name,0,The name of the patient is Thijs Gieben 
+Sensitive: Name,0,John Doe
+Sensitive: Name,0,Marie Bus 
+Sensitive: Name,0,Edward G 
+Sensitive: Name,0,John Kennedy 
+Sensitive: Name,0,insert patient name here 
+Sensitive: Payment Details,0,The creditcard number of the patient is XXXX
+Sensitive: Payment Details,0,Payment was done by cash 
+Sensitive: Payment Details,0,Patient paid by creditcard 
+Sensitive: Payment Details,0,Bank account number is 
+Sensitive: Payment Details,0,the patient paid by bank transfer 
+Sensitive: Payment Details,0,6331101999990016
+Sensitive: Payment Details,0,Australian BankCard‎: ‎5610591081018250
+Sensitive: Payment Details,0,American Express Corporate‎: ‎378734493671000
+Sensitive: Payment Details,0,Bank account 
+Sensitive: Phone Number,0,The phone number of the patient is 1800 160 401
+Sensitive: Phone Number,0,phone number 
+Sensitive: Phone Number,0,mobile number 
+Sensitive: Phone Number,0,telephone 
+Sensitive: Phone Number,0,mobile phone number
+Sensitive: Phone Number,0, 1800 160 401
+Sensitive: Phone Number,0,0491 577 426 0491 577 644
+Sensitive: Phone Number,0, 0491 578 957 0491 578 148 0491 578 888 0491 579 212
+Sensitive: Phone Number,0,020-91X-XXXX 
+Sensitive: Phone Number,0,(0191) 498 0xxx
+Sensitive: Phone Number,0,+1-212-718-1234
+Sensitive: Phone Number,0,311-555-2368
+Sensitive: Phone Number,0,6060-842
+Sensitive: Address,0, The address of the patient is first lane 24
+Sensitive: Address,0,Address: Fast Lane 123 
+Sensitive: Address,0,address details: 
+Sensitive: Address,0,City postcode address 
+Sensitive: Address,0,The address is high street 57
+Sensitive: Address,0,street name 
+Sensitive: Address,0,street valley 
+Sensitive: Address,0,Amsterdam dam square 5
+Sensitive: Address,0,Londen united kingdom street 57
+Sensitive: Address,0,What is your address 
+Sensitive: Address,0,Please insert address details 
+Sensitive: Address,0,address
+Sensitive: Address,0, Street name and address
+Sensitive: Sexual Orientation,0,lesbian 
+Sensitive: Sexual Orientation,0,gay
+Sensitive: Sexual Orientation,0,straight not gay 
+Sensitive: Sexual Orientation,0,unknown 
+Sensitive: Sexual Orientation,0,bisexual 
+Sensitive: Sexual Orientation,0,asexual 
+Sensitive: Sexual Orientation,0,the patient is straight 
+Sensitive: Sexual Orientation,0,the patient is bisexual 
+Sensitive: Sexual Orientation,0,the patient is asexual 
+Sensitive: Sexual Orientation,0,the patient is not sexually active 
+Sensitive: Sexual Orientation,0,sexuality unknown 
+Sensitive: Sexual Orientation,0,sexual orientation unknown 
+Sensitive: Sexual Orientation,0,sex
+Sensitive: Academic Transcripts,0,The academic transcript of the patient of the university 
+Sensitive: Academic Transcripts,0,The academic trascript of the 
+Sensitive: Academic Transcripts,0,The patient did the following study at the university of Milan 
+Sensitive: Academic Transcripts,0,Academic transcript or study
+Sensitive: Academic Transcripts,0,Education of the patient including grades 
+Sensitive: Academic Transcripts,0,the patient has no grades 
+Sensitive: Academic Transcripts,0,The patient has no academic transcript
+Sensitive: Academic Transcripts,0,no education detailed information available 
+Sensitive: Academic Transcripts,0,An Official Academic Transcript is a document produced and certified by your prior institution that provides a complete and unaltered list of all the study you have completed with them.
+Sensitive: Academic Transcripts,0,I was an intelligent student however my level of intelligence failed to pragmatize in my academic transcripts.
+Sensitive: Academic Transcripts,0,school records 
+Sensitive: Academic Transcripts,0,education records of the patient 
+Sensitive: Academic Transcripts,0,academic transcripts of education 
+Sensitive: Other,0,This is sensitive data 
+Sensitive: Other,0,this data should be masked
+Sensitive: Other,0,this data needs to be secured
+Sensitive: Other,0,security is important 
+Sensitive: Other,0,confidencial data
+Sensitive: Other,0,private data 
+Sensitive: Other,0,sensitivity 
+Sensitive: Other,0,high sensitivity 
+Sensitive: Other,0,please do not share this data 
+Sensitive: Other,0,authentication necessary 
+Sensitive: Other,0,only for patient and doctor 
+Sensitive: Other,0,highly confidencial 
+Sensitive: Other,0,extremely sensitive
+Non-Sensitive: Gender,1,male
+Non-Sensitive: Gender,1,female
+Non-Sensitive: Gender,1,the patient is a male 
+Non-Sensitive: Gender,1,the patient is a female 
+Non-Sensitive: Gender,1,male or female 
+Non-Sensitive: Gender,1,gender is unknown
+Non-Sensitive: Gender,1,the gender of the patient is male 
+Non-Sensitive: Gender,1,the gender of the patient is female 
+Non-sensitive: Age,1,the birth data of the patient is 22-09-1994
+Non-sensitive: Age,1,the age of the patient is 32
+Non-sensitive: Age,1,age:32
+Non-sensitive: Age,1,birth date: 04-05-99
+Non-sensitive: Age,1,1970-07-25
+Non-sensitive: Age,1,1965-07-12
+Non-sensitive: Age,1,1949-01-10
+Non-sensitive: Age,1,1980-04-04
+Non-sensitive: Age,1,1951-06-11 
+Non-sensitive: Age,1,1977-06-30
+Non-sensitive: Age,1,1962-12-15
+Non-sensitive: Age,1,1930-05-28
+Non-sensitive: Age,1,1962-12-15
+Non-sensitive: Age,1,1974-10-13
+Non-sensitive: Age,1,1944-11-25
+Non-sensitive: Race,1,Asian 
+Non-sensitive: Race,1,White
+Non-sensitive: Race,1,Asian 
+Non-sensitive: Race,1,African
+Non-sensitive: Race,1,White
+Non-sensitive: Race,1,Unknown race
+Non-sensitive: Race,1,race is unknown
+Non-sensitive: Race,1,caucasian 
+Non-sensitive: Race,1,african 
+Non-sensitive: Race,1,asian 
+Non-sensitive: Race,1,white 
+Non-sensitive: Race,1,latin american 
+Non-sensitive: Race,1,african 
+Non-sensitive: Race,1,white 
+Non-sensitive: Race,1,race not known
+Non-sensitive: Education,1,high school 
+Non-sensitive: Education,1,elementary education 
+Non-sensitive: Education,1,university 
+Non-sensitive: Education,1,higher education 
+Non-sensitive: Education,1,primary school 
+Non-sensitive: Education,1,postsecondary education 
+Non-sensitive: Education,1,higher education (university)
+Non-sensitive: Education,1,secondary education 
+Non-sensitive: Education,1,secondary level education 
+Non-sensitive: Education,1,primary education 
+Non-sensitive: Education,1,university postsecondary 
+Non-sensitive: Education,1,university college 
+Non-sensitive: Education,1,college university higher education 
+Non-sensitive: Education,1,elementary/primary education 
+Non-sensitive: Occupation,1,job description teacher
+Non-sensitive: Occupation,1,lawyer
+Non-sensitive: Occupation,1,occupation police officer 
+Non-sensitive: Occupation,1,doctor 
+Non-sensitive: Occupation,1,heavy labor 
+Non-sensitive: Occupation,1,construction 
+Non-sensitive: Occupation,1,cab driver 
+Non-sensitive: Occupation,1,job title IT manager 
+Non-sensitive: Occupation,1,chef 
+Non-sensitive: Occupation,1,hotel keeper 
+Non-sensitive: Occupation,1,occupation or job title 
+Non-sensitive: Occupation,1,this is the job title field of the patient 
+Non-sensitive: Occupation,1,social work
+Non-sensitive: Occupation,1,professor 
+Non-sensitive: Occupation,1,no occupation 
+Non-sensitive: Height,1,1.82 metes 
+Non-sensitive: Height,1,195cm 
+Non-sensitive: Height,1,6'1
+Non-sensitive: Height,1,length of patient in centimeters 
+Non-sensitive: Height,1,5 feet 4 inches
+Non-sensitive: Height,1,5 foot 9 inches
+Non-sensitive: Height,1,5 feet 10 inches
+Non-sensitive: Height,1,190.50 centimeters
+Non-sensitive: Height,1,134.62 centimeters
+Non-sensitive: Height,1,152.40 centimeters
+Non-sensitive: Height,1,198.12 centimeters
+Non-sensitive: Height,1,5 feet 11 inches	
+Non-sensitive: Height,1,4 feet 7 inches	
+Non-sensitive: Height,1,6 feet 8 inches	 
+Non-sensitive: Height,1,203.20 centimeters
+Non-sensitive: Eye Color,1,eye color of patient 
+Non-sensitive: Eye Color,1,the eye color of the patient is blue 
+Non-sensitive: Eye Color,1,green
+Non-sensitive: Eye Color,1,brown 
+Non-sensitive: Eye Color,1,eye color: brown
+Non-sensitive: Eye Color,1,green
+Non-sensitive: Eye Color,1,blue 
+Non-sensitive: Eye Color,1,grey 
+Non-sensitive: Eye Color,1,eye color is green
+Non-sensitive: Eye Color,1,brown 
+Non-sensitive: Eye Color,1,brown color 
+Non-sensitive: Eye Color,1,eye color: grey
+Non-sensitive: Eye Color,1,blue 
+Non-sensitive: Eye Color,1,green 
+Non-sensitive: Eye Color,1,brown 
+Non-sensitive: Blood Type,1,Blood type of patient 
+Non-sensitive: Blood Type,1,AB
+Non-sensitive: Blood Type,1,A
+Non-sensitive: Blood Type,1,B
+Non-sensitive: Blood Type,1,O
+Non-sensitive: Blood Type,1,BLood type unknown 
+Non-sensitive: Blood Type,1,Blood type B 
+Non-sensitive: Blood Type,1,Blood type A 
+Non-sensitive: Blood Type,1,Blood type o
+Non-sensitive: Blood Type,1,Blood type AB
+Non-sensitive: Blood Type,1,Blood group A
+Non-sensitive: Blood Type,1,Blood group B
+Non-sensitive: Blood Type,1,Blood group AB
+Non-sensitive: Blood Type,1,Blood group O
+Non-sensitive: Blood Type,1,Blood group A or B 
+Non-sensitive: Other,1,This data is non-sensitive 
+Non-sensitive: Other,1,This data should be available easily
+Non-sensitive: Other,1,non sensitive
+Non-sensitive: Other,1,non-sensitive 
+Non-sensitive: Other,1,unsensitive 
+Non-sensitive: Other,1,not sensitive 
+
+
+
+
+
+
